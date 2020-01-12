@@ -1,0 +1,22 @@
+.custom-class {
+    transition: all .5s;
+}
+
+.custom-class:focus {
+    width: 20rem;
+}
+
+.jumbotron {
+    background: url("https://www.yimba.sk/upload/extern/2018_10_skypark/image_3.png") center no-repeat;
+    z-index: -5000;
+}
+
+.jumbotron-text {
+    background-color: rgba(0,0,0, 0.32);
+    border-radius: 5rem;
+}
+
+.darkener {
+    background-color: rgb(0, 0, 0);
+    z-index: 5000;
+}
